@@ -1,30 +1,15 @@
+
+<img width="100%" src="https://github.com/mannheimSDS/NoCodeChains/tree/dev/MannheimSOWI.png?raw=true"></a>
+
 # NoCodeChains
-The exercises in this repository will introduce you to no code apps for constructing chains for Large Language Models (LLMs).  A chain is simply a set of modules connecting different steps in working wi
+The exercises in this repository will introduce you to no code apps for constructing chains for Large Language Models (LLMs).  The code is organized into lessons, as shown above.  The file at the bo
 
-This repository will be structured by module. Each module is expected to be the equivalent of a week's worth of exercises.  This first module will take you through installing the required software for the exercises.
 
-The apps we will be using 
-
-# Installing Software
-
-## Github:  
-
-# Vocabulary and Concepts
-
-## Container
-
-## Docker and DockerHub
-
-## Version Control
-
-## Github
-
-# Later words
-
-## Language Model
-
-## Large Language Model
-
-## Causal Model
-
-## Bidirectional Model
+# Required keys and subscriptions
+## OpenAI
+API, low cost
+## HuggingFace
+API
+## bubble.io
+free subscription
+## discord
