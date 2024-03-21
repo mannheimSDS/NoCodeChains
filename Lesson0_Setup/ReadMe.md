@@ -1,9 +1,10 @@
 # Downloading the Required Apps
-The exercises in this repository will introduce you to no code apps for constructing chains for Large Language Models (LLMs).  A chain is simply a set of modules connecting different steps in working wi
 
-This repository will be structured by module. Each module is expected to be the equivalent of a week's worth of exercises.  This first module will take you through installing the required software for the exercises.
+This lesson will take you through downloading the necessary apps to work with this course.  It will also
 
-The apps we will be using 
+# Required keys
+## OpenAI
+
 
 # Installing Software
 
